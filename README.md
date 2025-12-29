@@ -43,18 +43,7 @@ Online Shopping System is a DBMS project with both admin and user layouts.
 
 ![Product List Admin](screenshot/productlistadmin.png)
 ![Product List](screenshot/productlist.png)
-![Cart Page](screenshot/cartpage.png)
-![Home Page](screenshot/homepage.png)
-![Login Modal](screenshot/loginmodal.png)
-![Main Page](screenshot/mainpage.png)
-![Product Page](screenshot/productpage.png)
-![Product Zoom](screenshot/productzoom.png)
-![Register Modal](screenshot/register%20modal.png)
-![Search Filter](screenshot/searchfilter.png)
-![Search Page](screenshot/searchpage.png)
-![Store](screenshot/store.png)
-![Store Page](screenshot/storepage.png)
-![Store Page 1](screenshot/storepage1.png)
+ 
 
 ## Contributing
 
